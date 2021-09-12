@@ -1,0 +1,122 @@
+<phonemes>
+	<phoneme name="i" type="vowel" >
+		<frequency frequency="9.9"/>
+	</phoneme>
+	<phoneme name="ee" type="vowel" >
+		<frequency frequency="5.0"/>
+	</phoneme>
+	<phoneme name="er" type="vowel" >
+		<frequency frequency="3.4"/>
+	</phoneme>
+	<phoneme name="u" type="vowel" >
+		<frequency frequency="3.3"/>
+	</phoneme>
+	<phoneme name="e" type="vowel" >
+		<frequency frequency="2.6"/>
+	</phoneme>
+	<phoneme name="a" type="vowel" >
+		<frequency frequency="2.1"/>
+	</phoneme>
+	<phoneme name="ae" type="vowel" >
+		<frequency frequency="2.1"/>
+	</phoneme>
+	<phoneme name="aa" type="vowel" >
+		<frequency frequency="1.9"/>
+	</phoneme>
+	<phoneme name="ie" type="vowel" >
+		<frequency frequency="1.4"/>
+	</phoneme>
+	<phoneme name="oe" type="vowel" >
+		<frequency frequency="1.4"/>
+	</phoneme>
+	<phoneme name="oo" type="vowel" >
+		<frequency frequency="1.2"/>
+	</phoneme>
+	<phoneme name="ue" type="vowel" >
+		<frequency frequency="1.2"/>
+	</phoneme>
+	<phoneme name="or" type="vowel" >
+		<frequency frequency="0.7"/>
+	</phoneme>
+	<phoneme name="au" type="vowel" >
+		<frequency frequency="0.4"/>
+	</phoneme>
+	<phoneme name="air" type="vowel" >
+		<frequency frequency="0.4"/>
+	</phoneme>
+	<phoneme name="ou" type="vowel" >
+		<frequency frequency="0.4"/>
+	</phoneme>
+	<phoneme name="oi" type="vowel" >
+		<frequency frequency="0.1"/>
+	</phoneme>
+	<phoneme name="n" alternate="nn" type="consonant" >
+		<frequency frequency="7.8"/>
+	</phoneme>
+	<phoneme name="s" alternate="ss" type="consonant" >
+		<frequency frequency="6.8"/>
+	</phoneme>
+	<phoneme name="t" alternate="tt" type="consonant" >
+		<frequency frequency="6.8"/>
+	</phoneme>
+	<phoneme name="l" alternate="ll" type="consonant" >
+		<frequency frequency="5.4"/>
+	</phoneme>
+	<phoneme name="k" alternate="kk" type="consonant" >
+		<frequency frequency="4.1"/>
+	</phoneme>
+	<phoneme name="d" alternate="dd" type="consonant" >
+		<frequency frequency="4.0"/>
+	</phoneme>
+	<phoneme name="r" alternate="rr" type="consonant" >
+		<frequency frequency="3.9"/>
+	</phoneme>
+	<phoneme name="z" alternate="zz" type="consonant">
+		<frequency frequency="3.7"/>
+	</phoneme>
+	<phoneme name="p" alternate="" type="consonant" >
+		<frequency frequency="3.3"/>
+	</phoneme>
+	<phoneme name="m" alternate="mm" type="consonant" >
+		<frequency frequency="3.0"/>
+	</phoneme>
+	<phoneme name="g" alternate="gg" type="consonant" >
+		<frequency frequency="2.6"/>
+	</phoneme>
+	<phoneme name="b" alternate="bb" type="consonant" >
+		<frequency frequency="1.7"/>
+	</phoneme>
+	<phoneme name="f" alternate="ff" type="consonant" >
+		<frequency frequency="1.7"/>
+	</phoneme>
+	<phoneme name="y" alternate="yy" type="consonant" >
+		<frequency frequency="1.6"/>
+	</phoneme>
+	<phoneme name="sh" alternate="ssh" type="consonant" >
+		<frequency frequency="1.2"/>
+	</phoneme>
+	<phoneme name="v" alternate="vv" type="consonant" >
+		<frequency frequency="1.2"/>
+	</phoneme>
+	<phoneme name="w" alternate="" type="consonant" >
+		<frequency frequency="1.2"/>
+	</phoneme>
+	<phoneme name="j" alternate="" type="consonant" >
+		<frequency frequency="0.8"/>
+	</phoneme>
+	<phoneme name="h" alternate="hh" type="consonant" >
+		<frequency frequency="0.7"/>
+	</phoneme>
+	<phoneme name="ch" alternate="cch" type="consonant" >
+		<frequency frequency="0.5"/>
+	</phoneme>
+	<phoneme name="thh" alternate="tthh" type="consonant" >
+		<frequency frequency="0.3"/>
+	</phoneme>
+	<phoneme name="th" alternate="tth" type="consonant" >
+		<frequency frequency="0.1"/>
+	</phoneme>
+	<phoneme name="zh" alternate="zzh" type="consonant" >
+		<frequency frequency="0.1"/>
+	</phoneme>
+</phonemes>

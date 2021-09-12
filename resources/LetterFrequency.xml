@@ -1,0 +1,80 @@
+<letters>
+	<letter name="a" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="b" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="c" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="d" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="e" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="f" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="g" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="h" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="i" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="j" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="k" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="l" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="m" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="n" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="o" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="p" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="q" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="r" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="s" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="t" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="u" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="v" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="w" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="x" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="y" type="consonant" dual="true">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+	<letter name="z" type="consonant" dual="false">
+		<frequency relative="" firstLetter=""/>
+	</letter>
+</letters>
