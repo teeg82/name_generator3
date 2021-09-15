@@ -1,0 +1,20 @@
+<phonemes>
+    <phoneme name="i" type="vowel" >
+        <frequency frequency="9.9"/>
+    </phoneme>
+    <phoneme name="ee" type="vowel" >
+        <frequency frequency="5.0"/>
+    </phoneme>
+    <phoneme name="er" type="vowel" >
+        <frequency frequency="3.4"/>
+    </phoneme>
+    <phoneme name="n" alternate="nn" type="consonant" >
+        <frequency frequency="7.8"/>
+    </phoneme>
+    <phoneme name="s" alternate="ss" type="consonant" >
+        <frequency frequency="6.8"/>
+    </phoneme>
+    <phoneme name="t" alternate="tt" type="consonant" >
+        <frequency frequency="6.8"/>
+    </phoneme>
+</phonemes>
